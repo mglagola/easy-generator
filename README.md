@@ -12,7 +12,7 @@ npm install --save easy-generator
 
 ### Production Example
 
-* [hapi-site-gen](hapi-site-generator)
+* [hapi-site-gen](https://github.com/mglagola/hapi-site-generator)
 
 ### Simple Example
 
