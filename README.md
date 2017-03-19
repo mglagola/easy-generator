@@ -8,7 +8,13 @@ A simple template generator that combs through a template directory (`templateDi
 npm install --save easy-generator
 ```
 
-## Simple Example
+## Examples
+
+### Production Example
+
+* [hapi-site-gen](hapi-site-generator)
+
+### Simple Example
 
 ```js
 const gen = require('easy-generator');
@@ -35,7 +41,7 @@ gen({ outputDir, templateDir, data })
 
 ```
 
-## Longer Example
+### Longer Example
 
 ```js
 #! /usr/bin/env node
