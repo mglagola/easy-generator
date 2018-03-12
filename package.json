@@ -1,6 +1,6 @@
 {
   "name": "easy-generator",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A simple template generator that utilizes handlebars",
   "main": "index.js",
   "repository": {
